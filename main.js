@@ -44,6 +44,7 @@ function playerHit() {
       results.innerHTML = 'You lose!'
       yourstay.removeEventListener('click', playerStay)
       dealersHand.innerHTML = `Dealer's Hand (${ dealersCount })`
+      startGame.style.display = 'block'
    }
 }
 
