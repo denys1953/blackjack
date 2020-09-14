@@ -1,0 +1,28 @@
+.btns {
+   width: 100px;
+   text-align: center;
+   font-size: 17px;
+}
+.block {
+   font-size: 20px;
+}
+#firstPar {
+   font-size: 40px;
+   color: cadetblue;
+   font-weight: bold;
+}
+.cards {
+   font-weight: bold;
+   font-size: 18px;
+}
+#wrap-hidden {
+   display: none;
+}
+#wrap-visible button {
+   margin-top: 30px;
+   width: 250px;
+   height: 50px;
+}
+#block {
+   font-size: 20px;
+}
